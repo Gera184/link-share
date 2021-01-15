@@ -6,6 +6,7 @@
 /.pnp
 /.vscode
 .pnp.js
+.eslintcache
 debug.log
 README.md
 # testing
