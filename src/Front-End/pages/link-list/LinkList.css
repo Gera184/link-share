@@ -1,0 +1,14 @@
+.product-main-con-list {
+  background-color: whitesmoke;
+  text-align: center;
+}
+.search-input-list {
+  border: 0;
+  border-bottom: 1px solid black;
+  background: transparent;
+  color: black;
+  width: 40%;
+  font-size: 20px;
+  text-align: center;
+  outline: none;
+}

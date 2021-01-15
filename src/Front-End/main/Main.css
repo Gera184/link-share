@@ -1,0 +1,30 @@
+.search-input {
+  border: 0;
+  border-bottom: 1px solid whitesmoke;
+  background: transparent;
+  color: whitesmoke;
+  width: 40%;
+  font-size: 20px;
+  text-align: center;
+  outline: none;
+  padding: 2%;
+}
+
+.product-main-con {
+  padding-top: 6%;
+  text-align: center;
+}
+.a-btn {
+  color: whitesmoke;
+  font-size: large;
+  background-color: black;
+  opacity: 0.4;
+  width: 25%;
+}
+.a-btn-col {
+  padding-top: 5%;
+}
+
+a {
+  text-decoration: none;
+}

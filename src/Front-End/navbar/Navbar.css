@@ -1,0 +1,12 @@
+.list-icon {
+  color: green;
+  opacity: 0.9;
+  
+}
+
+.right-icon-col {
+  text-align: start;
+}
+.left-icon-col {
+  text-align: end;
+}
